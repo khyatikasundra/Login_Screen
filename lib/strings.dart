@@ -13,3 +13,5 @@ const String signUpString = "Sign up";
 const String signInString = "Sign in";
 const String bottomLineAccountString = "Already have an account? ";
 const String createAccountString = "Create Account";
+
+const String khyati = "";
